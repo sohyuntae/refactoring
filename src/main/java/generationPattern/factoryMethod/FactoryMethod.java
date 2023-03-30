@@ -1,4 +1,4 @@
-package factoryMethod;
+package generationPattern.factoryMethod;
 
 public class FactoryMethod {
     public static void main(String[] arg) {

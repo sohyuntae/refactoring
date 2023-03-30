@@ -1,4 +1,4 @@
-package singleton;
+package generationPattern.singleton;
 
 // 기본
 public class Singleton1 {

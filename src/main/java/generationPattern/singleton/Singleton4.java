@@ -1,4 +1,4 @@
-package singleton;
+package generationPattern.singleton;
 
 // LazyHolder 를 사용하는 싱글톤 패턴
 public class Singleton4 {

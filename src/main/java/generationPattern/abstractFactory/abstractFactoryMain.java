@@ -1,4 +1,4 @@
-package abstractFactory;
+package generationPattern.abstractFactory;
 
 public class abstractFactoryMain {
     public static void main(String[] arg) {

@@ -1,4 +1,4 @@
-package singleton;
+package generationPattern.singleton;
 
 // Double Check를 사용하여 Thread-Safe 를 보장하는 싱글톤 패턴
 public class Singleton3 {

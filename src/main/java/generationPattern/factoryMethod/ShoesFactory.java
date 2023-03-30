@@ -1,4 +1,4 @@
-package factoryMethod;
+package generationPattern.factoryMethod;
 
 public class ShoesFactory {
     final Shoes orderShoes(String name, String email) {

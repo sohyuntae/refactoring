@@ -1,4 +1,4 @@
-package singleton;
+package generationPattern.singleton;
 
 // Singleton test
 public class SingletonMain {

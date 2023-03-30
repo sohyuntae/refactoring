@@ -1,4 +1,4 @@
-package abstractFactory;
+package generationPattern.abstractFactory;
 
 public abstract class Computer {
     public abstract String getRAM();
