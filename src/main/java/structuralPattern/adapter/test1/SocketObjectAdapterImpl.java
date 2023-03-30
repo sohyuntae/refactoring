@@ -1,4 +1,4 @@
-package structuralPattern.adapter;
+package structuralPattern.adapter.test1;
 
 public class SocketObjectAdapterImpl implements SocketAdapter {
     //Using Composition for adapter pattern

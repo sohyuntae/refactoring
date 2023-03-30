@@ -1,4 +1,4 @@
-package structuralPattern.adapter;
+package structuralPattern.adapter.test1;
 
 public class Volt {
     private int volts;

@@ -1,4 +1,4 @@
-package structuralPattern.adapter;
+package structuralPattern.adapter.test1;
 
 public class SocketClassAdapterImpl extends Socket implements SocketAdapter {
 

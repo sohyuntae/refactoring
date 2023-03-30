@@ -1,4 +1,4 @@
-package structuralPattern.adapter;
+package structuralPattern.adapter.test1;
 
 /* 어댑터 패턴을 구현하기 위해서는 Class Adapter와 Object Adapter 두 가지 방법이 있다.
  *  - Class Adapter - 자바의 상속(Inheritance)을 이용한 방법
